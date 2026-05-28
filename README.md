@@ -3,7 +3,7 @@
 
 <h1>인지성 · injisung</h1>
 <p>learning by building, one line at a time.</p>
-<p>📮 injisung0818@gmail.com</p>
+<p>injisung0818@gmail.com</p>
 
 ---
 
