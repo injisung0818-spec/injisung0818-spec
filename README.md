@@ -28,7 +28,8 @@
 
 ---
 
-### 🐍 GitHub Contribution
+### 🐍 GitHub Contribution Snake
 
-<!-- snake 애니메이션은 아래 Actions 설정 후 활성화 -->
-<!-- <img src="https://github.com/injisung/injisung/blob/output/github-contribution-grid-snake.svg" /> -->
+<p align="center">
+  <img src="https://github.com/injisung/injisung/blob/output/github-contribution-grid-snake.svg" />
+</p>
