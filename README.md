@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=447cdb&height=90&section=header&text=injisung&fontSize=36&fontColor=ffffff&fontAlignY=55&fontWeight=800&letterSpacing=4)
+![header](https://capsule-render.vercel.app/api?type=rect&color=1a7fe0&height=90&section=header&text=injisung&fontSize=36&fontColor=ffffff&fontAlignY=55&fontWeight=800&letterSpacing=4)
 
 A developer who designs what users see
 
