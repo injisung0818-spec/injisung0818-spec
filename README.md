@@ -1,20 +1,25 @@
 <div align="center">
 
-<h1>인지성 · injisung</h1>
-<p>learning by building, one line at a time.</p>
-<p>injisung0818@gmail.com</p>
+![header](https://capsule-render.vercel.app/api?type=rect&color=447cdb&height=90&section=header&text=injisung&fontSize=36&fontColor=ffffff&fontAlignY=55&fontWeight=800&letterSpacing=4)
+
+A developer who designs what users see
+
+보이는 것을 설계하는 개발자
 
 ---
 
-### 01 · tech stack
+### tech stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_·_학습중-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React_·_학습중-lightgrey?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript_·_학습중-c9a800?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React_·_학습중-888888?style=flat-square&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
+### favorite albums
+
 <img src="https://record-rotate.injisung0818.workers.dev/?width=760&title=on&albums=ZUTOMAYO:Cream,Mrs.%20GREEN%20APPLE:%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF,Peppertones:Beginner%27s%20Luck,ZUTOMAYO:%E6%B2%88%E9%A6%99%E5%AD%A6,Mrs.%20GREEN%20APPLE:Ao%20to%20Natsu,%EC%9D%8C%EC%9C%A8:%ED%96%89%EB%B3%B5%EB%A1%A0,Mrs.%20GREEN%20APPLE:Summer%20Shadow&v=10" />
+
 </div>
