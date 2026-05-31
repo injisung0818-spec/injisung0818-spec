@@ -27,6 +27,9 @@ A developer who designs what users see
   <a href="mailto:injisung0818@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-injisung0818%40gmail.com-555555?style=flat-square&logo=Gmail&logoColor=white&labelColor=555555"/>
   </a>
+  <a href="https://www.instagram.com/injisung_00/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-injisung__00-333333?style=flat-square&logo=Instagram&logoColor=white&labelColor=333333"/>
+  </a>
 </p>
 
 
