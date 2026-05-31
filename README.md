@@ -29,4 +29,8 @@ A developer who designs what users see
   </a>
 </p>
 
+<p align="center">
+  e-mail : <code>injisung0818@gmail.com</code>
+</p>
+
 </div>
