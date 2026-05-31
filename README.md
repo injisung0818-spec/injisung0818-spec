@@ -23,8 +23,10 @@ A developer who designs what users see
 
 <img src="./divider.svg" width="100%"/>
 
-e-mail : injisung0818@gmail.com
-
-<img src="./divider.svg" width="100%"/>
+<p align="center">
+  <a href="mailto:injisung0818@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
