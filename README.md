@@ -25,7 +25,7 @@ A developer who designs what users see
 
 <p align="center">
   <a href="mailto:injisung0818@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-injisung0818%40gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Gmail-injisung0818%40gmail.com-555555?style=flat-square&logo=Gmail&logoColor=white&labelColor=555555"/>
   </a>
 </p>
 
