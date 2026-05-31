@@ -24,13 +24,11 @@ A developer who designs what users see
 <img src="./divider.svg" width="100%"/>
 
 <p align="center">
-  <!-- 이메일 배지 -->
-  <a href="mailto:injisung0818@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-injisung0818%40gmail.com-555555?style=flat-square&logo=Gmail&logoColor=white&labelColor=555555"/>
+  <a href="mailto:injisung0818@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-injisung0818%40gmail.com-EFEFEF?style=flat-square&logo=Gmail&logoColor=333333&labelColor=EFEFEF&color=EFEFEF"/>
   </a>
-  <!-- 인스타그램 배지 -->
-  <a href="https://www.instagram.com/injisung_00/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-injisung__00-555555?style=flat-square&logo=Instagram&logoColor=white&labelColor=555555"/>
+  <a href="https://www.instagram.com/injisung_00/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-injisung__00-EFEFEF?style=flat-square&logo=Instagram&logoColor=333333&labelColor=EFEFEF&color=EFEFEF"/>
   </a>
 </p>
 
