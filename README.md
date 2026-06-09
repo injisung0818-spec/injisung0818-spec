@@ -8,7 +8,7 @@ A developer who designs what users see
 
 <img src="./divider.svg" width="100%"/>
 
-## tech stack
+### tech stack
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
