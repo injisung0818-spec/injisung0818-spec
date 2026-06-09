@@ -23,6 +23,17 @@ A developer who designs what users see
 
 <img src="./divider.svg" width="100%"/>
 
+<!-- 깃 애니멀즈 -->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=injisung0818-spec&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/injisung0818-spec"
+  width="600"
+  height="300"
+/>
+</a>
+
+<img src="./divider.svg" width="100%"/>
+
 <p align="center">
   <!-- 이메일 배지 -->
   <a href="mailto:injisung0818@gmail.com" style="text-decoration: none;">
@@ -33,6 +44,5 @@ A developer who designs what users see
     <img src="https://img.shields.io/badge/Instagram-injisung__00-F7F7F7?style=flat-square&logo=Instagram&logoColor=4B4B4B&labelColor=F7F7F7&color=F7F7F7"/>
   </a>
 </p>
-
 
 </div>
