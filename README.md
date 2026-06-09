@@ -14,7 +14,6 @@ A developer who designs what users see
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_·_학습중-c9a800?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React_·_학습중-888888?style=flat-square&logo=react&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <img src="./divider.svg" width="100%"/>
