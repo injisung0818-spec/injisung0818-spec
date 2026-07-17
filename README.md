@@ -44,7 +44,7 @@ HTML, CSS, JavaScript를 바탕으로 React와 Figma를 학습하고 있습니�
   />
   <img
     alt="GitHub Stats"
-    src="./github-stats-230.svg"
+    src="./github-stats.svg"
     width="49%"
   />
 </div>
