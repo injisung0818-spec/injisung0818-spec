@@ -39,8 +39,8 @@ HTML, CSS, JavaScript를 바탕으로 React와 Figma를 학습하고 있습니�
 <p>
   <img
     alt="GitHub Stats"
-    src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=injisung0818-spec&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&theme=default&border_color=e5e7eb&bg_color=ffffff&title_color=111827&text_color=374151&icon_color=2563eb"
-    width="100%"
+    src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=injisung0818-spec&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true&hide=stars,prs,issues,contribs&theme=default&border_color=e5e7eb&bg_color=ffffff&title_color=111827&text_color=374151&icon_color=2563eb"
+    width="600"
   />
 </p>
 
