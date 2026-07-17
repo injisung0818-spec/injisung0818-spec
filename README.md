@@ -39,7 +39,7 @@ HTML, CSS, JavaScript를 바탕으로 React와 Figma를 학습하고 있습니�
 <p align="center">
   <img
     alt="Recent Contributions"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=injisung0818-spec&days=180&custom_title=Recent%20Contributions&hide_border=true&bg_color=ffffff&color=374151&line=2563eb&point=111827&area=true&area_color=bfdbfe&title_color=111827"
+    src="https://github-commit-map.yzzi.icu/api/contributions/injisung0818-spec/svg?from=2026-01-01&to=2026-07-18"
     width="49%"
   />
   <img
