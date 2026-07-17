@@ -11,9 +11,9 @@
 ### About Me
 
 <p>
-HTML, CSS, JavaScript로 보이는 화면을 만들고,<br/>
-Figma로 UI/UX 흐름을 연습합니다.<br/>
-React와 Java를 차근차근 배우며 프로젝트로 기록해 나가고 있습니다.
+대구소프트웨어마이스터고등학교에 재학 중이며,<br/>
+사용자가 직접 마주하는 화면과 흐름을 설계하는 데 관심이 있습니다.<br/>
+HTML, CSS, JavaScript를 바탕으로 React와 Figma를 학습하고 있습니다.
 </p>
 
 <img src="./divider.svg" alt="" width="100%"/>
@@ -28,9 +28,8 @@ React와 Java를 차근차근 배우며 프로젝트로 기록해 나가고 있�
 </p>
 
 <p>
-  <img alt="React learning" src="https://img.shields.io/badge/React-방학_학습중-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img alt="Java previewing" src="https://img.shields.io/badge/Java-2학기_예습중-5382A1?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img alt="Figma UI UX practice" src="https://img.shields.io/badge/Figma-UI%2FUX_연습중-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img alt="React learning" src="https://img.shields.io/badge/React-학습중-555555?style=flat-square&logo=react&logoColor=white"/>
+  <img alt="Figma learning" src="https://img.shields.io/badge/Figma-학습중-555555?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
 <img src="./divider.svg" alt="" width="100%"/>
