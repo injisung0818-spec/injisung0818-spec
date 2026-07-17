@@ -28,8 +28,8 @@ HTML, CSS, JavaScript를 바탕으로 React와 Figma를 학습하고 있습니�
 </p>
 
 <p>
-  <img alt="React learning" src="https://img.shields.io/badge/React-학습중-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img alt="Figma learning" src="https://img.shields.io/badge/Figma-학습중-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img alt="React learning" src="https://img.shields.io/badge/React-학습중-61DAFB?style=flat-square&logo=react&logoColor=20232A&labelColor=61DAFB&color=61DAFB"/>
+  <img alt="Figma learning" src="https://img.shields.io/badge/Figma-학습중-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=F24E1E&color=F24E1E"/>
 </p>
 
 <img src="./divider.svg" alt="" width="100%"/>
@@ -56,7 +56,9 @@ HTML, CSS, JavaScript를 바탕으로 React와 Figma를 학습하고 있습니�
 
 <!-- 소셜 링크 -->
 <p>
-  <a href="mailto:injisung0818@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-injisung0818%40gmail.com-F7F7F7?style=flat-square&logo=Gmail&logoColor=4B4B4B&labelColor=F7F7F7&color=F7F7F7"/></a><a href="https://www.instagram.com/injisung_00/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-injisung__00-F7F7F7?style=flat-square&logo=Instagram&logoColor=4B4B4B&labelColor=F7F7F7&color=F7F7F7"/></a>
+  <a href="mailto:injisung0818@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-injisung0818%40gmail.com-F7F7F7?style=flat-square&logo=gmail&logoColor=4B4B4B&labelColor=F7F7F7&color=F7F7F7"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/injisung_00/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-injisung__00-F7F7F7?style=flat-square&logo=instagram&logoColor=4B4B4B&labelColor=F7F7F7&color=F7F7F7"/></a>
 </p>
 
 </div>
