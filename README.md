@@ -39,12 +39,12 @@ HTML, CSS, JavaScript를 바탕으로 React와 Figma를 학습하고 있습니�
 <p>
   <img
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=injisung0818&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&theme=default&border_color=e5e7eb&bg_color=ffffff&title_color=111827&text_color=374151&icon_color=2563eb"
+    src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=injisung0818-spec&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&theme=default&border_color=e5e7eb&bg_color=ffffff&title_color=111827&text_color=374151&icon_color=2563eb"
     width="49%"
   />
   <img
     alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=injisung0818&theme=default&border=E5E7EB&ring=2563EB&fire=F97316&currStreakLabel=2563EB"
+    src="https://streak-stats.demolab.com?user=injisung0818-spec&theme=default&border=E5E7EB&ring=2563EB&fire=F97316&currStreakLabel=2563EB"
     width="49%"
   />
 </p>
@@ -52,7 +52,7 @@ HTML, CSS, JavaScript를 바탕으로 React와 Figma를 학습하고 있습니�
 <p>
   <img
     alt="Contribution Graph"
-    src="https://ghchart.rshah.org/2563eb/injisung0818"
+    src="https://ghchart.rshah.org/2563eb/injisung0818-spec"
     width="100%"
   />
 </p>
