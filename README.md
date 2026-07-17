@@ -54,10 +54,7 @@ HTML, CSS, JavaScript를 바탕으로 React와 Figma를 학습하고 있습니�
   />
 </a>
 
-<img src="./divider.svg" alt="" width="100%"/>
-
-### Contact
-
+<!-- 소셜 링크 -->
 <p>
   <a href="mailto:injisung0818@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-injisung0818%40gmail.com-F7F7F7?style=flat-square&logo=Gmail&logoColor=4B4B4B&labelColor=F7F7F7&color=F7F7F7"/></a><a href="https://www.instagram.com/injisung_00/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-injisung__00-F7F7F7?style=flat-square&logo=Instagram&logoColor=4B4B4B&labelColor=F7F7F7&color=F7F7F7"/></a>
 </p>
