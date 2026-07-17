@@ -34,6 +34,7 @@ Designing what users see
   src="https://render.gitanimals.org/farms/injisung0818-spec"
   alt="GitAnimals farm"
   width="100%"
+  height="200px"
 />
 </a>
 
