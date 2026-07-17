@@ -16,21 +16,6 @@ Designing what users see
 ![React](https://img.shields.io/badge/React_·_학습중-888888?style=flat-square&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-
-### currently learning
-
-![Java](https://img.shields.io/badge/Java-2%ED%95%99%EA%B8%B0_%EC%98%88%EC%8A%B5%EC%A4%91-5382A1?style=flat-square&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-%EB%B0%A9%ED%95%99_%ED%95%99%EC%8A%B5%EC%A4%91-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-UI%2FUX_%EC%97%B0%EC%8A%B5%EC%A4%91-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-<img src="./divider.svg" width="100%"/>
-
-HTML, CSS, JavaScript를 기반으로 화면을 구현하고,  
-React와 Java를 차근차근 익히는 중입니다.
-
-Figma로 UI/UX를 연습하며  
-사용자가 보기 편한 인터페이스를 고민하고 있습니다.
-
 <img src="./divider.svg" width="100%"/>
 
 ### projects
