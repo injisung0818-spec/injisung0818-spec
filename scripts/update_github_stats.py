@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import urllib.error
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -59,10 +60,24 @@ def fetch_total_contributions(token: str, username: str) -> int:
     return int(viewer["contributionsCollection"]["contributionCalendar"]["totalContributions"])
 
 
+def fetch_public_profile_total(username: str) -> int:
+    request = urllib.request.Request(
+        f"https://github.com/{username}",
+        headers={"User-Agent": "profile-readme-stats-updater"},
+    )
+    with urllib.request.urlopen(request, timeout=30) as response:
+        html = response.read().decode("utf-8", errors="replace")
+
+    match = re.search(r'([0-9][0-9,]*)\s+contributions\s+in\s+the\s+last\s+year', html, re.I)
+    if not match:
+        raise RuntimeError("Could not find the public contribution total on the GitHub profile page.")
+    return int(match.group(1).replace(",", ""))
+
+
 def build_svg(total: int) -> str:
     return f"""<svg width="551" height="258" viewBox="0 0 551 258" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">GitHub Stats</title>
-  <desc id="desc">GitHub statistics with private contributions included: {total} total contributions.</desc>
+  <desc id="desc">GitHub statistics with public profile contributions: {total} total contributions.</desc>
   <rect x="0.5" y="0.5" width="550" height="257" rx="6" fill="#ffffff" stroke="#e5e7eb"/>
   <style>
     .label {{ fill: #374151; font: 800 27px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }}
@@ -77,7 +92,7 @@ def build_svg(total: int) -> str:
   <g transform="translate(32 78)">
     <path class="icon" d="M3 12a9 9 0 1 0 3-6.7M3 3v6h6"/>
     <path class="icon" d="M12 7v6l4 2"/>
-    <text class="label" x="44" y="22">Total Commits:</text>
+    <text class="label" x="44" y="22">Total Contributions:</text>
     <text class="value" x="486" y="22" text-anchor="end">{total}</text>
   </g>
   <g transform="translate(32 122)">
@@ -111,9 +126,10 @@ def main() -> int:
         total = args.count
     else:
         token = os.environ.get("PROFILE_STATS_TOKEN") or os.environ.get("GITHUB_STATS_TOKEN")
-        if not token:
-            raise SystemExit("Set PROFILE_STATS_TOKEN to a token from the profile owner account.")
-        total = fetch_total_contributions(token, USERNAME)
+        if token:
+            total = fetch_total_contributions(token, USERNAME)
+        else:
+            total = fetch_public_profile_total(USERNAME)
 
     svg = build_svg(total)
     OUTPUT.write_text(svg, encoding="utf-8")
