@@ -33,7 +33,7 @@ Designing what users see
 <img
   src="https://render.gitanimals.org/farms/injisung0818-spec"
   alt="GitAnimals farm"
-  width="600"
+  width="100%"
 />
 </a>
 
