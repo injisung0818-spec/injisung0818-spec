@@ -36,18 +36,24 @@ HTML, CSS, JavaScript를 바탕으로 React와 Figma를 학습하고 있습니�
 
 ### GitHub Stats
 
-<p align="center">
-  <img
-    alt="Recent Contributions"
-    src="./recent-contributions.svg"
-    width="46%"
-  />
-  <img
-    alt="GitHub Stats"
-    src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=injisung0818-spec&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true&show=reviews,prs_merged&card_width=551&line_height=30&theme=default&border_color=e5e7eb&bg_color=ffffff&title_color=111827&text_color=374151&icon_color=2563eb"
-    width="46%"
-  />
-</p>
+<table align="center" width="100%" cellpadding="18" cellspacing="0">
+  <tr>
+    <td width="50%" valign="middle">
+      <img
+        alt="Recent Contributions"
+        src="./recent-contributions.svg"
+        width="100%"
+      />
+    </td>
+    <td width="50%" valign="middle">
+      <img
+        alt="GitHub Stats"
+        src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=injisung0818-spec&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true&show=reviews,prs_merged&card_width=551&line_height=30&text_font_size=18&theme=default&border_color=e5e7eb&bg_color=ffffff&title_color=111827&text_color=374151&icon_color=2563eb"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <img src="./divider.svg" alt="" width="100%"/>
 
