@@ -2,9 +2,9 @@
 
 <img src="./header.svg" width="100%"/>
 
-**Designing what users see
+Designing what users see
 
-보이는 것을 설계하는 개발자**
+보이는 것을 설계하는 개발자
 
 <img src="./divider.svg" width="100%"/>
 
