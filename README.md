@@ -22,10 +22,10 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-c9a800?style=flat-square&logo=javascript&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A"/>
 </p>
 
 <p>
-  <img alt="React learning" src="https://img.shields.io/badge/React-학습중-61DAFB?style=flat-square&logo=react&logoColor=20232A&labelColor=61DAFB&color=61DAFB"/>
   <img alt="Figma learning" src="https://img.shields.io/badge/Figma-학습중-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=F24E1E&color=F24E1E"/>
   <img alt="React Native learning" src="https://img.shields.io/badge/React%20Native-학습중-61DAFB?style=flat-square&logo=react&logoColor=20232A&labelColor=61DAFB&color=61DAFB"/>
 </p>
