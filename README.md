@@ -27,6 +27,7 @@
 <p>
   <img alt="React learning" src="https://img.shields.io/badge/React-학습중-61DAFB?style=flat-square&logo=react&logoColor=20232A&labelColor=61DAFB&color=61DAFB"/>
   <img alt="Figma learning" src="https://img.shields.io/badge/Figma-학습중-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=F24E1E&color=F24E1E"/>
+  <img alt="React Native learning" src="https://img.shields.io/badge/React%20Native-학습중-61DAFB?style=flat-square&logo=react&logoColor=20232A&labelColor=61DAFB&color=61DAFB"/>
 </p>
 
 <img src="./divider.svg" alt="" width="100%"/>
