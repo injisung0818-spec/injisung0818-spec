@@ -50,12 +50,6 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
 </p>
 
-### Exploring Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/Lenis-111111?style=flat-square&logoColor=white"/>
-</p>
-
 <img src="./divider.svg" alt="" width="100%"/>
 
 ### Music
