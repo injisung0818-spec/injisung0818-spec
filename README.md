@@ -2,9 +2,10 @@
 
 <img src="./header.svg" alt="INJISUNG profile header" width="100%"/>
 
-### Designing what users see
+## Currently Learning
 
-보이는 것을 설계하는 개발자
+웹과 앱 개발을 함께 공부하며 React 기반 UI 구현과
+사용자 경험을 개선하는 방법에 관심이 있습니다.
 
 <img src="./divider.svg" alt="" width="100%"/>
 
@@ -15,19 +16,35 @@
 
 <img src="./divider.svg" alt="" width="100%"/>
 
-### Tech Stack
+## 🛠 Tech Stack
+
+### Web
 
 <p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-c9a800?style=flat-square&logo=javascript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A"/>
 </p>
 
+### App
+
 <p>
-  <img alt="Figma learning" src="https://img.shields.io/badge/Figma-학습중-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=F24E1E&color=F24E1E"/>
-  <img alt="React Native learning" src="https://img.shields.io/badge/React%20Native-학습중-61DAFB?style=flat-square&logo=react&logoColor=20232A&labelColor=61DAFB&color=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=20232A"/>
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+### Also Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 <img src="./divider.svg" alt="" width="100%"/>
