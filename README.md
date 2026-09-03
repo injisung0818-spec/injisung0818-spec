@@ -69,7 +69,7 @@
   width="100%"
 />
 
-<img src="./divider.svg" alt="" width="100%"/>
+<!-- <img src="./divider.svg" alt="" width="100%"/>
 
 GitAnimals
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=injisung0818-spec&utm_content=farm">
@@ -78,7 +78,9 @@ GitAnimals
     alt="GitAnimals farm"
     width="100%"
   />
-</a>
+</a> -->
+
+<img src="./divider.svg" alt="" width="100%"/>
 
 <!-- 소셜 링크 -->
 <p>
