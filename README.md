@@ -71,14 +71,10 @@
 
 <img src="./divider.svg" alt="" width="100%"/>
 
-### GitAnimals
+## 🐾 GitAnimals
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=injisung0818-spec&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/injisung0818-spec"
-    alt="GitAnimals farm"
-    width="100%"
-  />
+<a href="https://www.gitanimals.org/">
+  <img src="https://render.gitanimals.org/farms/injisung0818-spec"/>
 </a>
 
 <!-- 소셜 링크 -->
