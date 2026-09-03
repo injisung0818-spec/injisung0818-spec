@@ -39,7 +39,7 @@
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=light" width="80" height="80" alt="Java"/>
 </p>
 
 ### Want to Learn
