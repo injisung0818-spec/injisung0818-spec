@@ -16,7 +16,7 @@
 
 <img src="./divider.svg" alt="" width="100%"/>
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 #### Web Development
 
