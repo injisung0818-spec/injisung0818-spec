@@ -38,15 +38,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <p>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-    width="28"
-    height="28"
-    alt="Java"
-  />
-  <strong> Java</strong>
-</p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2Utd2lkdGg9IjEuNiIgZD0iTTggNmMwLTEgLjgtMS4yLjgtMi4yUzggMi42IDggMm00IDRjMC0xIC44LTEuMi44LTIuMlMxMiAyLjYgMTIgMiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNNC41IDhoMTF2NS41QTQuNSA0LjUgMCAwIDEgMTEgMThIOWE0LjUgNC41IDAgMCAxLTQuNS00LjVWOHptMTEgMXYzLjVIMTdhMS43NSAxLjc1IDAgMCAwIDAtMy41aC0xLjV6bTEgMUgxN2EuNzUuNzUgMCAwIDEgMCAxLjVoLS41VjEwek0zLjUgMjBoMTR2MWgtMTR6Ii8+PC9zdmc+&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
