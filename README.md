@@ -57,8 +57,10 @@
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
 </p>
 
 <img src="./divider.svg" alt="" width="100%"/>
